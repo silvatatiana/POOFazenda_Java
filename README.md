@@ -9,6 +9,7 @@ Para a construção da lógica apresentada pelo Diagrama UML presente no diretó
 - Idade (atributo)
 - Tamanho (atributo)
 - Som emitido (ação)
+
 Nessa fazenda iremos representar 2 tipos de animais, aves (pato, galinha) e
 mamíferos(vaca e morcego). Sabemos que todas as aves desta fazenda botam
 ovos e tem pena (o que diferencia são as cores da pena). Sabemos também que os
